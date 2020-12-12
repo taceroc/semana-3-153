@@ -18,6 +18,11 @@ En caso de acceso exitoso
 ### Caso de uso
 
 <p align="center" >
-  <img src="gh-pages/images/Caso_estudio_reto3.png"/>
+  <img src="../gh-pages/images/Caso_estudio_reto3.png"/>
+</p>
+
+#### Página del repositio
+<p align="center" >
+  <a src="https://taceroc.github.io/semana-3-153/" target="_blank">Página del repositorio</a>
 </p>
 
