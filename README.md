@@ -23,6 +23,6 @@ En caso de acceso exitoso
 
 #### Página del repositio
 <p align="center" >
-  <a src="https://taceroc.github.io/semana-3-153/" target="_blank">Página del repositorio</a>
+  <a href="https://taceroc.github.io/semana-3-153/" target="_blank">Página del repositorio</a>
 </p>
 
