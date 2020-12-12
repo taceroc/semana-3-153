@@ -26,6 +26,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](./images/Caso_estudio_reto3.png)
 ```
 
+<img src="./images/Caso_estudio_reto3.png"/>
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
