@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Documentación grupo 153 Reto Semana 3
 
 You can use the [editor on GitHub](https://github.com/taceroc/semana-3-153/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://drive.google.com/file/d/1i_qxM2VOHcisDWATsz3Oz8Uhv0ey_DrL/view?usp=sharing)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
