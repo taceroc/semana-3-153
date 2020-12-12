@@ -21,8 +21,8 @@ En caso de acceso exitoso
   <img src="../gh-pages/images/Caso_estudio_reto3.png"/>
 </p>
 
-#### Página del repositio
+#### Página del repositorio
 <p align="center" >
-  <a href="https://taceroc.github.io/semana-3-153/" target="_blank">Página del repositorio</a>
+  [Página del repositorio](https://taceroc.github.io/semana-3-153/){:target="_blank" rel="noopener"}
 </p>
 
