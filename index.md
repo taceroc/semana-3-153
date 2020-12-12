@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://drive.google.com/file/d/1i_qxM2VOHcisDWATsz3Oz8Uhv0ey_DrL/view)
+[Link](url) and ![Image](./images/Caso_estudio_reto3.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
