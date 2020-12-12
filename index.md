@@ -25,8 +25,9 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](./images/Caso_estudio_reto3.png)
 ```
-
-<img src="https://drive.google.com/file/d/1i_qxM2VOHcisDWATsz3Oz8Uhv0ey_DrL/view/">
+<p align="center" >
+  <img src="./images/Caso_estudio_reto3.png"/>
+</p>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
