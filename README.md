@@ -25,4 +25,10 @@ En caso de acceso exitoso
 
 [Página del repositorio](https://taceroc.github.io/semana-3-153/)
 
+#### Integrantes
+
+- Daniel Picón: Frontend
+- Cristian Parra: Backend
+- Tatiana Acero: Github, documentación, soporte a compañeros.
+
 
