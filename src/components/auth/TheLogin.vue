@@ -14,7 +14,7 @@
           >Correo electrónico</label
         >
         <input
-          v-model="signin.email"
+          v-model="login.email"
           type="email"
           class="form-control"
           id="exampleInputEmail1"
@@ -27,7 +27,7 @@
       <div class="mb-3">
         <label for="exampleInputPassword1" class="form-label">Contraseña</label>
         <input
-          v-model="signin.password"
+          v-model="login.password"
           type="password"
           class="form-control"
           id="exampleInputPassword1"
@@ -48,11 +48,12 @@
 <script>
 
 export default {
+  name: "TheLogin",
     data(){
         return{
-            signin:{
+            login:{
                 email:'',
-                password: '',
+                password:'',
             }
         }
     },

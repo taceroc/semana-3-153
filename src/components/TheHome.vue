@@ -20,7 +20,7 @@
         <button
           class="btn btn-outline-primary my-2 my-sm-0"
           type="button"
-          v-on:click="logOut"
+          v-on:click="logoutUser"
         >
           Salir
         </button>
