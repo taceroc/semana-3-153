@@ -22,7 +22,7 @@ En caso de acceso exitoso
 </p>
 
 #### Página del repositorio
-<p align="center" >
-  [Página del repositorio](https://taceroc.github.io/semana-3-153/){:target="_blank" rel="noopener"}
-</p>
+
+[Página del repositorio](https://taceroc.github.io/semana-3-153/){:target="_blank" rel="noopener"}
+
 
