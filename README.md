@@ -23,6 +23,6 @@ En caso de acceso exitoso
 
 #### Página del repositorio
 
-[Página del repositorio](https://taceroc.github.io/semana-3-153/){:target="_blank" rel="noopener"}
+[Página del repositorio](https://taceroc.github.io/semana-3-153/){:target="_blank"}
 
 
