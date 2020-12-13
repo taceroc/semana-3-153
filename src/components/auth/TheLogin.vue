@@ -61,7 +61,7 @@ export default {
             try{
             let response = await this.$http.post('/api/auth/signin', this.login);
             console.log(response.data);
-            let token = response.data.tokenReturn;
+            let token = response.data.accessToken;
             let user = response.data.user;
             localStorage.setItem('jwt', token);
             localStorage.setItem('user', JSON.stringify(user));
